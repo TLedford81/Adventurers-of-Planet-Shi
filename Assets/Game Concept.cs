@@ -1,5 +1,5 @@
 ﻿/*
-Adventurers of Planet Shi
+Adventurers of Planet Shi!
 
 You're an adventurer who was born on Planet Shi
 Your mom and dad died when you were 12 because of the many monsters who have taken over the planet
